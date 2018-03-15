@@ -112,7 +112,10 @@ namespace CheckLicense
             Report.Log(ReportLevel.Info, "Keyboard", "Key sequence '{Escape}'.", new RecordItemIndex(6));
             Keyboard.Press("{Escape}");
             Delay.Milliseconds(0);
-            
+
+            Host.Current.CloseApplication(repo.MeasureXUntitled.Self, new Duration(100));
+            Delay.Milliseconds(100);
+
         }
 
 #region Image Feature Data
