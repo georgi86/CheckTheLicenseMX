@@ -1,0 +1,105 @@
+﻿<repository
+id="c2108bd8-2cc6-4081-a6ef-b48bedbcecc0"
+name="CheckLicenseRepository"
+rxversion="7.0">
+	<codegen
+	classname="CheckLicenseRepository"
+	namespace="CheckLicense">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="03e70104-3417-4012-847c-93e93bb03329"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="db90b56b-bf45-4141-a2ff-d902a68d8d56"
+		isrooted="True"
+		name="MeasureXUntitled"
+		refpath="/form[@title='Measure-X - [Untitled]']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="titlebar,accessible"
+			capname="titlebar"
+			id="e9562f9a-aed6-4ff9-b32a-f47be9166421"
+			name="MeasureXUntitled"
+			refimgid="655b6209-25a4-48c1-981d-1131ce44ab4b"
+			refpath="/form[@title='Measure-X - [Untitled]']/titlebar[@accessiblerole='TitleBar']"
+			searchtimeout="60000ms">
+				/form[@title='Measure-X - [Untitled]']/titlebar[@accessiblerole='TitleBar']
+			</item>
+			<basepath>
+				/form[@title='Measure-X - [Untitled]']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAM0SURBVDhPfZN7SJNRGMa/sgthaLu1dNPN+a3l
+qqnNyitelpom2nRrOnGlGGbNJE0rL5vbukzE0lWQUTMziS4YmtlFw7SyC5VBmUoE/hdR/wTRsHBP
+3z6HYVEPHHjhvL/nPe97ziH+JaPx6qJdFfWSXRVmSUlJyWICmOfe+r80ReVxsardvXvrbI7mCzfQ
+ZO+EvqbJIYtT925IVCao1WoPd+pcGY3G+WEpOpvN3u4cm3iD8fdv8XJ0DIOvJvBwZByPRt7BdLJt
+mgyNPaVSqZa4sd9anaC1NbR24fmLB3B+ukWvL5N9GH83iBevH+P+k2F0DzxGY+t18FdHnpGq1Yvc
+KEEEJ2+P0+5vcB629+DE5duYmrTj24dW3BvoQvOVPlgv9eNYez+OtN2F5fxNKPVHpgWrZJkUOjOX
+gJjs3kLLeVTa2jHxxIrRIROKjp6B3noax882UnELNIYLyDvcgZ3WDhSYz4EXsmlIJkv0JFxHCUjI
+d4TmmdF/ZQe+PtoCRbEBtdZSfBxQIkVfi6BcC1ZpLRBts0CgqsOaHAN40drvwrVhEsI3MlfCjtLB
+N60SnwfT8eFeJoJ1ZrSdLcTPZ8nIKK2GlDIIogxIjQV+mXXw3VIBVkQuhEIyiWCFqWYNCg6WYbhT
+i56OAthbijH1NAV7DOVzDbLcBuG5Tv8AMo0gyc2LGWFqh09qOfiZRirJDFmeCaE6E7rb81HfuGdO
+C3ylAT4pZWCuUzoEJBnumuE8llTRuyKpBLyMKqpHM8TZFJBjQda+arS27KRjV3V/ao+XfgjcRD3Y
+kugRvjiYR98Cd2VEAitCO+2TWgb+1hraxFVNnG1GXX0pHdNwRg1VfR9YGzXTfsKVB+Ry+ULagKCe
+J1scfooTs4M+Hi+9im7H1W9UYQ3kumq6sgtmR293ckn5HZFI6j8Du8WRSpd6+8uvMjdonFxFMW3k
+GpbpaCGGr6mwQlEE5nq1kx0Q8lAgEIdQyJ+fy/VJ2PIlXoKGZYER4wxZ2g+GXAVRTJZznSL1B5MM
+n2QsF1309OTGE0TsAjf0lzwIhsjbyyuQ9PbmxXM4wjwOV5DPYvmlU3GwF5/PpHNmRRC/AKNHkEVu
+H6GBAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="07f7d290-5dd2-4b20-89a5-a26f422dad06"
+		isrooted="True"
+		name="AboutMeasureX"
+		refpath="/form[@title='About Measure-X']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="696e9997-cc81-4d26-b330-7d0e18acd08f"
+			name="HelpAbout"
+			refimgid="bb4771cd-6000-45a4-8c78-28cee9a157d5"
+			refpath="/form[@title='About Measure-X']/text[@controlid='1928']"
+			searchtimeout="30000ms">
+				/form[@title='About Measure-X']/text[@controlid='1928']
+			</item>
+			<basepath>
+				/form[@title='About Measure-X']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAM0SURBVDhPfZN7SJNRGMa/sgthaLu1dNPN+a3l
+qqnNyitelpom2nRrOnGlGGbNJE0rL5vbukzE0lWQUTMziS4YmtlFw7SyC5VBmUoE/hdR/wTRsHBP
+3z6HYVEPHHjhvL/nPe97ziH+JaPx6qJdFfWSXRVmSUlJyWICmOfe+r80ReVxsardvXvrbI7mCzfQ
+ZO+EvqbJIYtT925IVCao1WoPd+pcGY3G+WEpOpvN3u4cm3iD8fdv8XJ0DIOvJvBwZByPRt7BdLJt
+mgyNPaVSqZa4sd9anaC1NbR24fmLB3B+ukWvL5N9GH83iBevH+P+k2F0DzxGY+t18FdHnpGq1Yvc
+KEEEJ2+P0+5vcB629+DE5duYmrTj24dW3BvoQvOVPlgv9eNYez+OtN2F5fxNKPVHpgWrZJkUOjOX
+gJjs3kLLeVTa2jHxxIrRIROKjp6B3noax882UnELNIYLyDvcgZ3WDhSYz4EXsmlIJkv0JFxHCUjI
+d4TmmdF/ZQe+PtoCRbEBtdZSfBxQIkVfi6BcC1ZpLRBts0CgqsOaHAN40drvwrVhEsI3MlfCjtLB
+N60SnwfT8eFeJoJ1ZrSdLcTPZ8nIKK2GlDIIogxIjQV+mXXw3VIBVkQuhEIyiWCFqWYNCg6WYbhT
+i56OAthbijH1NAV7DOVzDbLcBuG5Tv8AMo0gyc2LGWFqh09qOfiZRirJDFmeCaE6E7rb81HfuGdO
+C3ylAT4pZWCuUzoEJBnumuE8llTRuyKpBLyMKqpHM8TZFJBjQda+arS27KRjV3V/ao+XfgjcRD3Y
+kugRvjiYR98Cd2VEAitCO+2TWgb+1hraxFVNnG1GXX0pHdNwRg1VfR9YGzXTfsKVB+Ry+ULagKCe
+J1scfooTs4M+Hi+9im7H1W9UYQ3kumq6sgtmR293ckn5HZFI6j8Du8WRSpd6+8uvMjdonFxFMW3k
+GpbpaCGGr6mwQlEE5nq1kx0Q8lAgEIdQyJ+fy/VJ2PIlXoKGZYER4wxZ2g+GXAVRTJZznSL1B5MM
+n2QsF1309OTGE0TsAjf0lzwIhsjbyyuQ9PbmxXM4wjwOV5DPYvmlU3GwF5/PpHNmRRC/AKNHkEVu
+H6GBAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2abcb13229572c"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="EVMX"
+		host="SNAPDM200"
+		rxversion="7.0.1.0"
+		osversion="Windows 7 Service Pack 1 32bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="3/14/2018 09:35:45"
+		timestampiso="2018-03-14T07:35:45"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.056"
+			timeRelativeToTestModuleStartTime="00:00.056"
+			timeWallClock="09:35:45"
+			time="00:00.056"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\QVI\MeasureX\MX.bat' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.075"
+			timeRelativeToTestModuleStartTime="00:00.075"
+			timeWallClock="09:35:45"
+			time="00:00.075"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MeasureXUntitled.MeasureXUntitled' at 771;8.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Measure-X - [Untitled]']/titlebar[@accessiblerole='TitleBar']"
+				fullname="CheckLicenseRepository.MeasureXUntitled.MeasureXUntitled"
+				id="e9562f9aaed64ff9b32af47be9166421"
+				timeout="31000"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="89"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.260"
+			timeRelativeToTestModuleStartTime="00:30.260"
+			timeWallClock="09:36:15"
+			time="00:30.260"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LMenu}'.
+			</message>
+			<metainfo
+				itemindex="3"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="93"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.464"
+			timeRelativeToTestModuleStartTime="00:30.464"
+			timeWallClock="09:36:15"
+			time="00:30.464"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'h'.
+			</message>
+			<metainfo
+				itemindex="4"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="97"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.669"
+			timeRelativeToTestModuleStartTime="00:30.669"
+			timeWallClock="09:36:15"
+			time="00:30.669"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'a'.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="101"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.874"
+			timeRelativeToTestModuleStartTime="00:30.874"
+			timeWallClock="09:36:16"
+			time="00:30.874"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'AboutMeasureX.Text1928' at 202;70.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='About Measure-X']/text[@controlid='1928']"
+				fullname="CheckLicenseRepository.AboutMeasureX.Text1928"
+				id="696e9997cc814d26b3307d0e18acd08f"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="105"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.690"
+			timeRelativeToTestModuleStartTime="00:31.690"
+			timeWallClock="09:36:16"
+			time="00:31.690"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (WindowText='Measure-X For Windows
+Version 5.02.117 Mar 13 2018 
+Database Version: 101
+Serial Number #
+No hardware
+Video board: Offline board
+Sentinel ID: 9096EE9F-6BF57B2D-0F2C1BED-2296D25F') on item 'AboutMeasureX.Text1928'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='About Measure-X']/text[@controlid='1928']"
+				fullname="CheckLicenseRepository.AboutMeasureX.Text1928"
+				id="696e9997cc814d26b3307d0e18acd08f"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="109"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.709"
+			timeRelativeToTestModuleStartTime="00:31.709"
+			timeWallClock="09:36:16"
+			time="00:31.709"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'WindowText' of element for item 'CheckLicenseRepository.AboutMeasureX.Text1928' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='About Measure-X']/text[@controlid='1928']"
+				fullname="CheckLicenseRepository.AboutMeasureX.Text1928"
+				id="696e9997cc814d26b3307d0e18acd08f"
+				timeout="60000"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="110"
+				loglvl="Success"
+				itemindex="7">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.811"
+			timeRelativeToTestModuleStartTime="00:31.811"
+			timeWallClock="09:36:16"
+			time="00:31.811"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Escape}'.
+			</message>
+			<metainfo
+				itemindex="8"
+				codefile="d:\Joro\GIT_Automation_MX\Automation_License\CheckLicense\CheckLicense\Recording1.cs"
+				codeline="113"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

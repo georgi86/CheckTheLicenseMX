@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="CheckLicense"
+      id="8a9c3d7b-94d4-4747-90ac-2d4c467bf20d"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="CheckLicense"
+      id="8a9c3d7b-94d4-4747-90ac-2d4c467bf20d"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
